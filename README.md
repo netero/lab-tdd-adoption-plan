@@ -5,7 +5,7 @@ Laboratorio para el plan de adopción TDD
 
 Generar una librería que permita realizar las siguientes funcionalidades:
 
-* Obtener el impuesto de un monto
+* Obtener el impuesto de un monto neto
 * Obtener el monto con impuesto agregado
 * En base a un valor con impuesto, obtener el valor neto
 
